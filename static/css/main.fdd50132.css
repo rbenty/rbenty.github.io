@@ -1,0 +1,2 @@
+svg :hover{cursor:pointer}#header{grid-area:header}#main{grid-area:main}#footer{grid-area:footer}#grid{text-align:center;display:grid;display:-ms-grid;grid-template-areas:"header header header" "main main main" "footer footer footer";grid-template-columns:1fr 1fr 1fr;grid-template-rows:100px 1fr 50px;min-height:95vh}
+/*# sourceMappingURL=main.fdd50132.css.map*/
